@@ -43,7 +43,7 @@ Brag Sheet:
     - I have done many, many, many hours of community service for instituions such as the Senior Citizen Center or the New Brunswick Public Library.
     - I have also volunteered among smaller organizations such as National Honors Society, Youth Council, EB Tecs, Social Studies Honors Society, and English Honors Society.
     - I also interned/volunteered for my mother's business, "MOLD'S AND THINGS," during the Summer of my sophomore year where I trained in the field of new product development and marketing items to multiple E-commerce platforms, including Amazon and eBay. I was responsible for adding new products to the E-commerce business and generating further traffic towards these new products launched by the company.
---
+  
 Aspirations:
 --
 Personally, I cannot imagine myself having a desk job or working in a cubicle, and I mean no offense to anyone who does, but based on the person I notice I have become, that is not for me. I want to do something different, combine the intellectual and atheltic parts of me, and hopefully do service in the millitary as an officer, and I hope my efforts of getting into the military academies will help me to do so. Recently this year, I applied to Air Force Academy Summer Seminar, which has around an 8% acceptance rate, like many Ivy League schools, and I got in! Unfortunately, it was declared canceled due to the Covid-19 crisis, but I now have motivation to work harder and get into the actual Academy next year! 
