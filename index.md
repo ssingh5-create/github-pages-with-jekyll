@@ -2,6 +2,7 @@
 ---
 The Story of an Exceptional Student, Athlete, and Communal Member
 ---
+
 Hello, welcome to my website, a place that will give you a 
 brief description about me regarding my accomplishments, my appearance, my
 social media links, and a few other things you may have not known about me.
