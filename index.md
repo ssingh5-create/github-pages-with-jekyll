@@ -7,8 +7,12 @@ brief description about me regarding my accomplishments, my appearance, my
 social media links, and a few other things you may have not known about me.
 
 # Social Links
+
 instagram_username: swayam._.singh
+
 snapchat_username: magicalswayam
+
 twitter_username: swayamblogs
+
 Emails you can contact me by: ssingh5@ebnet.org or soccerswayam@gmail.com
 
