@@ -45,5 +45,5 @@ Brag Sheet:
 
 ---
 Aspirations:
--
+--
 Personally, I cannot imagine myself having a desk job or working in a cubicle, and I mean no offense to anyone who does, but based on the person I notice I have become, that is not for me. I want to do something different, combine the intellectual and atheltic parts of me, and hopefully do service in the millitary as an officer, and I hope my efforts of getting into the military academies will help me to do so. Recently this year, I applied to Air Force Academy Summer Seminar, which has around an 8% acceptance rate, like many Ivy League schools, and I got in! Unfortunately, it was declared canceled due to the Covid-19 crisis, but I now have motivation to work harder and get into the actual Academy next year! 
