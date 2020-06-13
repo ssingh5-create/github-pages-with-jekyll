@@ -1,5 +1,5 @@
 ---
-title: "The Story of an Excepetional Student, Athlete, and Communal Member"
+title: "The Story of an Exceptional Student, Athlete, and Communal Member"
 date: 2020-06-12
 ---
 author: Swayam Singh
