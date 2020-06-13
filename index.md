@@ -1,6 +1,6 @@
 # Welcome to the Website about Swayam Singh
 ---
-title: "The Story of an Exceptional Student, Athlete, and Communal Member"
+"The Story of an Exceptional Student, Athlete, and Communal Member"
 date: 2020-06-12
 ---
 author: Swayam Singh
