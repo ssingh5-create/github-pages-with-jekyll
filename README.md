@@ -1,13 +1,2 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
-
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+<img width="230" alt="Screen Shot 2020-06-12 at 8 49 17 PM" src="https://user-images.githubusercontent.com/66742950/84556234-15230800-acef-11ea-8252-3ae9753b69e4.png">
+<img width="453" alt="Screen Shot 2020-06-12 at 8 47 40 PM" src="https://user-images.githubusercontent.com/66742950/84556235-181df880-acef-11ea-96bc-aa2c27b7798c.png">
